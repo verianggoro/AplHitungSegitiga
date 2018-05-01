@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Hitung Segitiga</string>
+    <string name="masukan_alas">Masukan Alas</string>
+    <string name="masukan_tinggi">Masukan Tinggi</string>
+</resources>
